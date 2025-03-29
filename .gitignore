@@ -1,0 +1,8 @@
+# Excluir entornos virtuales
+venv/
+
+# Excluir archivos de caché
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

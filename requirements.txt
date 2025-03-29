@@ -1,0 +1,5 @@
+pymongo[srv]
+Flask-API
+python-dotenv
+gradio
+fpdf2
